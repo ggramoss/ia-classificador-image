@@ -1,0 +1,6 @@
+# Excluir imagens dentro de todos os diretórios
+*.jpg
+*.jpeg
+*.png
+*.gif
+# Adicione mais extensões de imagem, se necessário
